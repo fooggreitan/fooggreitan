@@ -1,37 +1,109 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis
-=============================================================================================================================
+# Hi there! 👋 I'm Denis
+### Backend & LLM Developer | AI Solutions Architect
 
-Backend Developer | LLM Developer
----------------------------------
+📍 Based in Nizhny Novgorod, Russia  
+📧 Contact: [denis-k0ryagin@yandex.ru](mailto:denis-k0ryagin@yandex.ru)  
+🔗 Portfolio: [Yandex.Disk Portfolio](http://disk.yandex.ru/d/DOG_4D_zXEbqpQ)  
+🎓 Education: Nizhny Novgorod Institute of Management - RANEPA branch (2020-2024)
 
-Developed a Qualifier system based on LLM for automating calls and booking meeting rooms, which increased the flow of customers and reduced costs for Bitrix24. Implemented a Telegram bot with AI responses, improving the speed and accuracy of customer interaction. In the project, SimpiAI was engaged in visualization of KPIs, setting up LLM, working with Django, LangChain and API, which simplified the analysis of reports. In the course of training, he studied Python, Java, C#, JavaScript, DevOps, databases and analytical tools, performed EDA and data visualization in Google Colab and Jupyter Notebook.
+Specializing in:
+- Large Language Model (LLM) integration
+- AI-powered automation systems
+- Backend development (Python/Java)
+- Data processing and analysis
 
-* 🌍  I'm based in Nizhniy Novgorod
-* 🖥️  See my portfolio at [My portfolio](http://disk.yandex.ru/d/DOG_4D_zXEbqpQ)
-* ✉️  You can contact me at [denis-k0ryagin@yandex.ru](mailto:denis-k0ryagin@yandex.ru)
-* 🧠  I'm learning Nizhny Novgorod Institute of Management-RANEPA branch
+### 🌐 Connect With Me
 
-<a href="https://www.github.com/fooggreitan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/fooggreitan?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doppins)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://nn.hh.ru/resume/89fa1ad4ff0ddc99b00039ed1f62754a6e476a)
+[![GeekBrains](https://img.shields.io/badge/GeekBrains-8A2BE2?style=for-the-badge&logo=geekbrains&logoColor=white)](https://gb.ru/users/ffd95b53-38a5-4321-845c-d379a0457c05)
 
-### Skills
+### 🛠 Technical Skills
 
+**Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+**Databases**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" title="MS SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
 
+**Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
 
-### Socials
+**Libraries**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/>
+<img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="40" height="40" title="Scikit-learn"/>
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="40" height="40" title="SciPy"/>
 
-<p align="left"> <a href="https://www.github.com/fooggreitan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+**Tools & Platforms**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" title="NGINX"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" title="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" title="Anaconda"/>
 
-### Badges
+**LLM & AI**  
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.41.0/files/dark/huggingface-color.png" width="40" height="40" title="HuggingFace"/>
+<img src="https://images.icon-icons.com/4252/PNG/512/chatgpt_logo_chatgpt_logo_square_green_gpt_ia_openai_icon_264977.png" width="40" height="40" title="ChatGPT"/>
+<img src="https://custom.typingmind.com/assets/models/llama.png" width="40" height="40" title="Llama"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" width="40" height="40" title="Ollama"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="40" height="40" title="Gemini"/>
+<img src="https://latestlogo.com/wp-content/uploads/2024/03/langchain-logo.svg" width="40" height="40" title="LangChain"/>
 
-<b>My GitHub Stats</b>
+### 🚀 Featured Projects
 
-<a href="http://www.github.com/fooggreitan"><img src="https://github-readme-stats.vercel.app/api?username=fooggreitan&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="fooggreitan's GitHub stats" /></a>
+#### [Intelligent "Qualifier" System](https://quolita.ru/welcome) (Python, LLM, Docker)
+- Developed AI system for call automation and meeting room booking
+- Integrated with Bitrix24, reducing operational costs by 18%
+- Implemented Telegram bot with AI responses
+- **Tech Stack**: Python, LangChain, FastAPI, PostgreSQL, Docker
 
-<a href="http://www.github.com/fooggreitan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fooggreitan&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+#### [SimplAI Web Application](https://disk.yandex.ru/d/Qq2c-Kdv0xsSdw) (Django, LLM)
+- AI-powered web app for employee performance monitoring
+- Created analytical dashboards with ApexCharts for KPI visualization
+- Optimized LLM fine-tuning for report interpretation
+- **Tech Stack**: Django, PostgreSQL, Bootstrap, LangChain
 
-<a href="https://github.com/fooggreitan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fooggreitan&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### [Wind Turbine Location Analyzer](https://disk.yandex.ru/d/a7wdV54JySBoVQ) (Python, Django)
+- Hackathon project for optimal wind turbine placement
+- Automated climate data collection and processing
+- Interactive visualization with Django and JavaScript
+- **Tech Stack**: Python, Pandas, Django, JavaScript
+
+### 📊 GitHub Stats
+
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=fooggreitan&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/fooggreitan)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fooggreitan&layout=compact&theme=dark&hide_border=true)](https://github.com/fooggreitan)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fooggreitan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+⭐️ From [Denis Koryagin](https://github.com/fooggreitan) with ❤️  
+📅 Last Updated: 2024

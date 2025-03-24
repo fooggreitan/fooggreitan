@@ -1,4 +1,6 @@
-<img src="https://drive.google.com/uc?export=view&id=1NS8RNih6sPL8_K0pKtNw6Ra2qjFxTCHq" alt="Hi there! I'm Denis">
+<div align="center">
+  <img src="https://github.com/fooggreitan/fooggreitan/blob/main/ezgif-2972737eda37d7.gif?raw=true">
+</div>
 
 ### Backend & LLM Developer | AI Solutions Architect
 

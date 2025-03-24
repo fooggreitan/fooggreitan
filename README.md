@@ -106,5 +106,5 @@ Specializing in:
 
 ---
 
-⭐️ From [Denis Koryagin](https://github.com/fooggreitan) with ❤️  
+⭐️ From [Denis](https://github.com/fooggreitan) with ❤️  
 📅 Last Updated: 2024

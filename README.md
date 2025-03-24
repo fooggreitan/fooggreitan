@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Denis
+<img src="https://drive.google.com/uc?export=view&id=1NS8RNih6sPL8_K0pKtNw6Ra2qjFxTCHq" alt="Hi there! I'm Denis">
+
 ### Backend & LLM Developer | AI Solutions Architect
 
 📍 Based in Nizhny Novgorod, Russia  

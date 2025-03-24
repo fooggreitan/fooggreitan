@@ -9,7 +9,8 @@
 Specializing in:
 - Large Language Model (LLM) integration
 - AI-powered automation systems
-- Backend development (Python/Java)
+- Backend development
+- Frontend development
 - Data processing and analysis
 
 ### 🌐 Connect With Me

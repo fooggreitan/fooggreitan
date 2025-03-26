@@ -19,7 +19,7 @@ Specializing in:
 ### 🌐 Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doppins)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://nn.hh.ru/resume/89fa1ad4ff0ddc99b00039ed1f62754a6e476a)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=headhunter&logoColor=white)](https://vk.cc/cEctI6)
 [![GeekBrains](https://img.shields.io/badge/GeekBrains-8A2BE2?style=for-the-badge&logo=geekbrains&logoColor=white)](https://gb.ru/users/ffd95b53-38a5-4321-845c-d379a0457c05)
 
 ### 🛠 Technical Skills

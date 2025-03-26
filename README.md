@@ -104,7 +104,5 @@ Specializing in:
 
 [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=fooggreitan&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/fooggreitan)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fooggreitan&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ⭐️ From [Denis](https://github.com/fooggreitan) with ❤️  
 📅 Last Updated: 2024

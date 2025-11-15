@@ -5,9 +5,10 @@
 ### Backend & LLM Developer & Product | Founder [SimpiAI](https://simpiai.vercel.app/)
 
 📍 Based in Nizhny Novgorod, Russia  
-📧 Contact: [denis-k0ryagin@yandex.ru](mailto:denis-k0ryagin@yandex.ru) and [Telegram](https://t.me/doppins)
-🔗 Portfolio: [Yandex.Disk Portfolio](http://disk.yandex.ru/d/DOG_4D_zXEbqpQ)  
+📧 Contact: [denis-k0ryagin@yandex.ru](mailto:denis-k0ryagin@yandex.ru) and [Telegram](https://t.me/doppins)<br>
+🔗 Portfolio: [Yandex.Disk Portfolio](http://disk.yandex.ru/d/DOG_4D_zXEbqpQ)<br>
 🎓 Education: Nizhny Novgorod Institute of Management - RANEPA branch (2020-2024)
+
 
 Specializing in:
 - Large Language Model (LLM) integration
@@ -79,19 +80,16 @@ Specializing in:
 - Developed AI system for call automation and meeting room booking
 - Integrated with Bitrix24, reducing operational costs by 18%
 - Implemented Telegram bot with AI responses
-- **Tech Stack**: Python, LangChain, FastAPI, PostgreSQL, Docker
 
 #### [SimplAI Web Application](https://simpiai.vercel.app/)
 - AI-powered web app for employee performance monitoring
 - Created analytical dashboards with ApexCharts for KPI visualization
 - Optimized LLM fine-tuning for report interpretation
-- **Tech Stack**: Django, PostgreSQL, Bootstrap, LangChain
 
 #### [Wind Turbine Location Analyzer](https://disk.yandex.ru/d/a7wdV54JySBoVQ)
 - Hackathon project for optimal wind turbine placement
 - Automated climate data collection and processing
 - Interactive visualization with Django and JavaScript
-- **Tech Stack**: Python, Pandas, Django, JavaScript
 
 ### 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fooggreitan&layout=compact&theme=dark&hide_border=true)](https://github.com/fooggreitan)

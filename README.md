@@ -2,10 +2,10 @@
   <img src="https://github.com/fooggreitan/fooggreitan/blob/main/ezgif-2972737eda37d7.gif?raw=true">
 </div>
 
-### Backend & LLM Developer | AI Solutions Architect
+### Backend & LLM Developer & Product | Founder [SimpiAI](https://simpiai.vercel.app/)
 
 📍 Based in Nizhny Novgorod, Russia  
-📧 Contact: [denis-k0ryagin@yandex.ru](mailto:denis-k0ryagin@yandex.ru)  
+📧 Contact: [denis-k0ryagin@yandex.ru](mailto:denis-k0ryagin@yandex.ru) and [Telegram](https://t.me/doppins)
 🔗 Portfolio: [Yandex.Disk Portfolio](http://disk.yandex.ru/d/DOG_4D_zXEbqpQ)  
 🎓 Education: Nizhny Novgorod Institute of Management - RANEPA branch (2020-2024)
 
@@ -75,19 +75,19 @@ Specializing in:
 
 ### 🚀 Featured Projects
 
-#### [Intelligent "Qualifier" System](https://quolita.ru/welcome) (Python, LLM, Docker)
+#### [Intelligent "Qualifier" System](https://quolita.ru/welcome)
 - Developed AI system for call automation and meeting room booking
 - Integrated with Bitrix24, reducing operational costs by 18%
 - Implemented Telegram bot with AI responses
 - **Tech Stack**: Python, LangChain, FastAPI, PostgreSQL, Docker
 
-#### [SimplAI Web Application](https://disk.yandex.ru/d/Qq2c-Kdv0xsSdw) (Django, LLM)
+#### [SimplAI Web Application](https://simpiai.vercel.app/)
 - AI-powered web app for employee performance monitoring
 - Created analytical dashboards with ApexCharts for KPI visualization
 - Optimized LLM fine-tuning for report interpretation
 - **Tech Stack**: Django, PostgreSQL, Bootstrap, LangChain
 
-#### [Wind Turbine Location Analyzer](https://disk.yandex.ru/d/a7wdV54JySBoVQ) (Python, Django)
+#### [Wind Turbine Location Analyzer](https://disk.yandex.ru/d/a7wdV54JySBoVQ)
 - Hackathon project for optimal wind turbine placement
 - Automated climate data collection and processing
 - Interactive visualization with Django and JavaScript
@@ -99,4 +99,4 @@ Specializing in:
 [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=fooggreitan&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/fooggreitan)
 
 ⭐️ From [Denis](https://github.com/fooggreitan) with ❤️  
-📅 Last Updated: 2024
+📅 Last Updated: 2025
